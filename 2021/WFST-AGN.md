@@ -9,5 +9,7 @@ as the CREAM code does.
 
 [SPACE TELESCOPE AND OPTICAL REVERBERATION MAPPING PROJECT. III. OPTICAL CONTINUUM
 EMISSION AND BROADBAND TIME DELAYS IN NGC 5548.](https://iopscience.iop.org/article/10.3847/0004-637X/821/1/56 "Fausnaugh 2016, et al.")
->Pay attention to Fig 4, "The gray histograms are the ICCF centroid distributions from the FR/RSS
+>Used data: WC18, LT, LCOGT, WMO, CrAO, RCT, MO15, FWO, HLCO, KAIT,
+MLO, LOAO(BVRIugriz)
+>>Pay attention to Fig 4, "The gray histograms are the ICCF centroid distributions from the FR/RSS
 method;" 
