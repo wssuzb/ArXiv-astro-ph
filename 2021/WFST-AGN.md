@@ -31,3 +31,4 @@ method;"
 [Quasar Accretion Disk Sizes from Continuum Reverberation Mapping in the DES
 Standard-star Fields.](https://doi.org/10.3847/1538-4365/ab5e7a "Yu 2020, et al.")
 >Used data: DES(standard-star fields, with the griz band), supernova C fields(SN-C fileds).
+>>Also ran simulations to further verfy the lag measurements.
