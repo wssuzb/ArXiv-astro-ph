@@ -2,7 +2,7 @@
 
 ------ Zhenbo Su -----
 
-:galaxy:
+:Telescope:
 
 :star:Some paper related to my current work.
 
