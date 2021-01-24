@@ -8,6 +8,7 @@ examine the impact on the delay measurements when using three different methods,
 **Find that current accretion disk sizes estimated from JAVELIN and PyCS are underestimated by ∼ 30%** and that
 unbiased measurement are only obtained with methods that properly take the skewed transfer functions into account,
 as the CREAM code does. 
+>>**Pay attention to the lightcurve y-axis in Fig 2, there may be some wrong with photometric noise errorbar.**
 
 [SPACE TELESCOPE AND OPTICAL REVERBERATION MAPPING PROJECT. III. OPTICAL CONTINUUM
 EMISSION AND BROADBAND TIME DELAYS IN NGC 5548.](https://iopscience.iop.org/article/10.3847/0004-637X/821/1/56 "Fausnaugh 2016, et al.")
