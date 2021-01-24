@@ -12,6 +12,10 @@ examine the impact on the delay measurements when using three different methods,
 **Find that current accretion disk sizes estimated from JAVELIN and PyCS are underestimated by ∼ 30%** and that
 unbiased measurement are only obtained with methods that properly take the skewed transfer functions into account,
 as the CREAM code does. 
+>Give the result: **CREAM can measure disk sizes with a rms error
+below 10%, even for a cadence of 5 days and with data loss.
+A cadence better than 2 days even achieves errors below
+the 5% level.**
 >>**Pay attention to the lightcurve y-axis in Fig 2, there may be some wrong with photometric noise errorbar.**
 
 ---
