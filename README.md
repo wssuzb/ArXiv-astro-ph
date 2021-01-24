@@ -1,4 +1,4 @@
-# AxRiv-astro-ph
+# ArXiv-astro-ph
 
 ------ Zhenbo Su -----
 
